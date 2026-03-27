@@ -115,7 +115,7 @@ The dashboard aims to help identify key growth drivers, evaluate the effectivene
 
 <h2> Project Structure</h2>
 <pre>
-sales-dashboard-tableau
+sales-performance-dashboard
 │── sales_performance_dashboard.twb
 │── Images/
 │   ├── sales_dashboard.png
